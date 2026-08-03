@@ -1,0 +1,59 @@
+LeetCode SQL 50 Solutions Journey
+
+A curated collection of my solutions to the **LeetCode SQL 50** study plan.
+
+This repository showcases my approach to solving SQL problems from the official **LeetCode SQL 50** study plan. It serves as a structured reference for learning SQL, strengthening database concepts, and preparing for coding interviews. Each solution is written with a focus on readability, correctness, and efficient query design.
+
+## 📖 Repository Overview
+
+* Platform:LeetCode
+* Study Plan: SQL 50
+* Language: SQL
+* Focus Areas: SQL Fundamentals, Query Optimization, Database Concepts
+* Purpose: SQL Interview Preparation & Continuous Learning
+
+📂 Repository Structure
+
+leetcode-sql-50/
+│
+├── README.md
+└── solutions/
+    ├── 0175-combine-two-tables.sql
+    ├── 0176-second-highest-salary.sql
+    ├── 0181-employees-earning-more-than-their-managers.sql
+    ├── 0197-rising-temperature.sql
+    ├── ...
+    └── 1978-employees-whose-manager-left-the-company.sql
+
+Each solution file is named using the **LeetCode problem number** followed by the **problem title**, making it easy to locate and reference individual problems.
+
+🧠 Topics Covered
+
+* Basic SQL Queries
+* Filtering & Sorting
+* Aggregate Functions
+* GROUP BY & HAVING
+* CASE Expressions
+* JOIN Operations
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions
+* String Functions
+* Date Functions
+* NULL Handling
+
+🎯 Repository Goal
+
+The objective of this repository is to build a strong foundation in SQL by solving the **LeetCode SQL 50** study plan. It reflects consistent practice, strengthens problem-solving skills, and serves as a personal reference for SQL interview preparation.
+
+
+👩‍💻 About the Author
+
+Harika Posina
+B.Tech – Computer Science & Engineering (Artificial Intelligence)**
+Aspiring Data Analyst
+Passionate about SQL, Data Analytics, Power BI, Python, and Excel.This repository reflects my commitment to continuous learning, improving SQL proficiency, and building a strong foundation in database concepts through consistent practice.
+
+
+⭐ If you find this repository helpful, consider giving it a Star.
+
