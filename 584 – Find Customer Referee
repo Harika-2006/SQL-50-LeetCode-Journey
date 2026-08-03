@@ -1,0 +1,27 @@
+==========================================================
+LeetCode SQL 50
+
+Problem Number : 584
+Problem Name   : Find Customer Referee
+Difficulty     : Easy
+
+Problem Link   : https://leetcode.com/problems/find-customer-referee/
+
+----------------------------------------------------------
+Approach
+----------------------------------------------------------
+- Retrieve the names of customers.
+- Exclude customers whose referee_id is equal to 2.
+- Include customers whose referee_id is NULL.
+
+----------------------------------------------------------
+Time Complexity : O(n)
+Space Complexity: O(1)
+==========================================================
+Query:
+
+SELECT
+    name
+FROM Customer
+WHERE referee_id <> 2
+   OR referee_id IS NULL;
